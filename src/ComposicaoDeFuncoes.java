@@ -1,5 +1,3 @@
-package FatorialRecursivo;
-
 import java.util.Arrays;
 
 public class ComposicaoDeFuncoes {
