@@ -18,6 +18,7 @@ public class CalculadoraIMC {
         System.out.print("Qual seu nome: ");
         nome = teclado.next();
 
+
         System.out.print("Sua altura em metros: ");
         altura = teclado.nextDouble();
 
