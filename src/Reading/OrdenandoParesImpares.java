@@ -28,5 +28,6 @@ public class OrdenandoParesImpares {
         total.addAll(pares);
         total.addAll(impares);
         total.forEach(System.out::println);
+
     }
 }
